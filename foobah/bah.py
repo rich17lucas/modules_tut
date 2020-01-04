@@ -1,2 +1,2 @@
-def bah(int: num):
+def bah(num):
     return(num **2)
